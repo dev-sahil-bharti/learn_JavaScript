@@ -48,4 +48,6 @@ const pro2 = arr.splice(0, 3);
 console.log("Orignel 'c'", arr)
 console.log(pro2);
 
+console.log(`next part array 02`);
+
 
