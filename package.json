@@ -1,0 +1,15 @@
+{
+  "name": "javascript-chai_aur_code",
+  "version": "1.0.0",
+  "description": "🚀JavaScript Learning: Beginner to Advanced\r ![JavaScript Banner](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fh3r7toiuswlusnrf9bfl.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.1.0"
+  }
+}
